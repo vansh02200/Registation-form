@@ -1,0 +1,56 @@
+[
+    {
+        "firstName": "vansh",
+        "lastName": "chawla",
+        "email": "vanshcahwla@gmail.com",
+        "countryCode": "+1",
+        "phoneNumber": "79883",
+        "job": "designer",
+        "password": "123"
+    },
+    {
+        "firstName": "khushi",
+        "lastName": "ch",
+        "email": "jdwbka@gmail.com",
+        "countryCode": "+1",
+        "phoneNumber": "384326",
+        "job": "designer",
+        "password": "123"
+    },
+    {
+        "firstName": "ab",
+        "lastName": "ab",
+        "email": "vsnhs@gmail.com",
+        "countryCode": "+1",
+        "phoneNumber": "73829749",
+        "job": "designer",
+        "password": "12"
+    },
+    {
+        "firstName": "vanshhh",
+        "lastName": "ch",
+        "email": "vanshcahwla@gmail.com",
+        "countryCode": "+1",
+        "phoneNumber": "7988301059",
+        "job": "accountant",
+        "password": "123"
+    },
+    {
+        "firstName": "bhg",
+        "lastName": "yg7",
+        "email": "vanshcahwla@gmail.com",
+        "countryCode": "+1",
+        "phoneNumber": "7988301059",
+        "job": "designer",
+        "password": "123"
+    },
+    {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "countryCode": "+1",
+        "phoneNumber": "",
+        "job": "",
+        "password": ""
+    }
+]
